@@ -8,7 +8,7 @@
 
 float _angle = 0.0f, //for rotating the boat
 float xpos = 0.0f, //for moving the boat in the x axis
-flor ypos = 0.0f; //for moving the boat in the y axis
+float ypos = 0.0f; //for moving the boat in the y axis
 
 float cameraHeight = -80.0f; //for zooming the camera
 
