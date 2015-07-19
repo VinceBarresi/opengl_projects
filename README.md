@@ -2,6 +2,13 @@ Small 2D and 3D OpenGL Applications written in C++
 
 #3D Geometry with Lighting#
 
+Controls
+
+- Left Key - Move Camera Left
+- Right Key - Move Camera Right
+- Up Key - Move Camera Up
+- Down Key - Move Camera Down
+
 ![alt tag](https://cloud.githubusercontent.com/assets/5244883/8767784/dc2ab440-2e35-11e5-86c0-379afd72ea5d.jpg)
 
 ![alt tag](https://cloud.githubusercontent.com/assets/5244883/8767785/dc2e1d92-2e35-11e5-9868-b8fe1178cc98.jpg)
