@@ -121,7 +121,7 @@ int main(int argc, char** argv) {
   glutInitDisplayMode(GLUT_DOUBLE | GLUT_RGB | GLUT_DEPTH);
   glutInitWindowPosition(80, 80);
   glutInitWindowSize(800, 600);
-  glutCreateWindow("Barresi CSC706 Project 2");
+  glutCreateWindow("Geometry on Chessboard");
   glutDisplayFunc(display);
   glutReshapeFunc(reshape);
   glutSpecialFunc(special);
