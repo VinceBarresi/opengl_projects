@@ -85,7 +85,8 @@ void display() {
   glPopMatrix();
 
   glPushMatrix();
-  glTranslatef(5.75, 0.0, 3.0);               glRotatef(270.0, 1.0, 0.0, 0.0);
+  glTranslatef(5.75, 0.0, 3.0);               
+  glRotatef(270.0, 1.0, 0.0, 0.0);
   glutSolidCone(1.0, 2.0, 70, 12);
   glPopMatrix();
 
