@@ -1,6 +1,6 @@
 Small 2D and 3D OpenGL Applications written in C++
 
-#3D Geometry with Lighting#
+## 3D Geometry with Lighting ##
 
 Controls
 
@@ -15,15 +15,15 @@ Controls
 
 ![alt tag](https://cloud.githubusercontent.com/assets/5244883/8767792/2851ef14-2e36-11e5-800d-36ea79028b31.jpg)
 
-#Multiple Snowflakes#
+## Multiple Snowflakes ##
 
 ![alt tag](https://cloud.githubusercontent.com/assets/5244883/8767745/801d0b72-2e34-11e5-89fe-b2d3f3f0454d.png)
 
-#Colorful Rectangles#
+## Colorful Rectangles ##
 
 ![alt tag](https://cloud.githubusercontent.com/assets/5244883/8767799/7457fff2-2e36-11e5-878f-0262f0ddd615.jpg)
 
-#Boat Adventure#
+## Boat Adventure ##
 
 Controls 
 
@@ -37,15 +37,15 @@ Controls
 
 ![alt tag](https://cloud.githubusercontent.com/assets/5244883/8767820/1ded792a-2e37-11e5-84b0-f6f778af0d35.jpg)
 
-#Night Sky Village#
+## Night Sky Village ##
 
 ![alt tag](https://cloud.githubusercontent.com/assets/5244883/8767830/7716ab0c-2e37-11e5-906a-12ef08f7009f.jpg)
 
-#Abstract Eye#
+## Abstract Eye ##
 
 ![alt tag](https://cloud.githubusercontent.com/assets/5244883/8767842/b8dca460-2e37-11e5-9481-bfb633a31662.jpg)
 
-#Stellation#
+## Stellation ##
 
 ![alt tag](https://cloud.githubusercontent.com/assets/5244883/8767849/f1104724-2e37-11e5-812a-5406cea1a707.jpg)
 
