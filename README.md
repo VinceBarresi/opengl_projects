@@ -28,7 +28,7 @@ Controls
 Controls 
 
 - Keys 1 and 2 change the angle of the scene
-- Keys and 4 change the camera height of the scene
+- Keys 3 and 4 change the camera height of the scene
 - Keys D and E change the location the boats move ( D is x+, E is x-)
 - Keys D and E also animate the light on the buoy
 - Keys 5 and 6 animate the buoy light without the boats moving
